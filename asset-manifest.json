@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Triplo/static/css/main.30f04b62.css",
+    "main.js": "/Triplo/static/js/main.09f7e2cb.js",
+    "static/media/dashboard.jpg": "/Triplo/static/media/dashboard.6f0d225af2916257d401.jpg",
+    "index.html": "/Triplo/index.html",
+    "main.30f04b62.css.map": "/Triplo/static/css/main.30f04b62.css.map",
+    "main.09f7e2cb.js.map": "/Triplo/static/js/main.09f7e2cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f04b62.css",
+    "static/js/main.09f7e2cb.js"
+  ]
+}
