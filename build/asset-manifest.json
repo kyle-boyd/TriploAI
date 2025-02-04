@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Triplo/triplo-landing/static/css/main.2140a3e3.css",
-    "main.js": "/Triplo/triplo-landing/static/js/main.2735e3b2.js",
-    "static/media/dashboard.jpg": "/Triplo/triplo-landing/static/media/dashboard.6f0d225af2916257d401.jpg",
-    "index.html": "/Triplo/triplo-landing/index.html",
-    "main.2140a3e3.css.map": "/Triplo/triplo-landing/static/css/main.2140a3e3.css.map",
-    "main.2735e3b2.js.map": "/Triplo/triplo-landing/static/js/main.2735e3b2.js.map"
+    "main.css": "/Triplo/static/css/main.30f04b62.css",
+    "main.js": "/Triplo/static/js/main.09f7e2cb.js",
+    "static/media/dashboard.jpg": "/Triplo/static/media/dashboard.6f0d225af2916257d401.jpg",
+    "index.html": "/Triplo/index.html",
+    "main.30f04b62.css.map": "/Triplo/static/css/main.30f04b62.css.map",
+    "main.09f7e2cb.js.map": "/Triplo/static/js/main.09f7e2cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2140a3e3.css",
-    "static/js/main.2735e3b2.js"
+    "static/css/main.30f04b62.css",
+    "static/js/main.09f7e2cb.js"
   ]
 }
