@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Figtree', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.glow-effect {
+  position: relative;
+  display: inline-block;
+  box-shadow: 0 0 48px -24px #fff, -8px 0 80px -24px #4c00ff, 8px 0 80px -24px #0f9;
+}
