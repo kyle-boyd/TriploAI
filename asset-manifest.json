@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/TriploAI/static/css/main.30f04b62.css",
-    "main.js": "/TriploAI/static/js/main.0af3e8af.js",
+    "main.css": "/TriploAI/static/css/main.9ee61845.css",
+    "main.js": "/TriploAI/static/js/main.ba8603c0.js",
+    "static/media/Chat.jpg": "/TriploAI/static/media/Chat.da34b518b224fb773e9c.jpg",
+    "static/media/Submittal Assitant.jpg": "/TriploAI/static/media/Submittal Assitant.9f2941ebde9ab8f8932c.jpg",
     "static/media/dashboard.jpg": "/TriploAI/static/media/dashboard.6f0d225af2916257d401.jpg",
+    "static/media/Project Docs.jpg": "/TriploAI/static/media/Project Docs.4c7ef272d9a3028573dd.jpg",
     "index.html": "/TriploAI/index.html",
-    "main.30f04b62.css.map": "/TriploAI/static/css/main.30f04b62.css.map",
-    "main.0af3e8af.js.map": "/TriploAI/static/js/main.0af3e8af.js.map"
+    "main.9ee61845.css.map": "/TriploAI/static/css/main.9ee61845.css.map",
+    "main.ba8603c0.js.map": "/TriploAI/static/js/main.ba8603c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.30f04b62.css",
-    "static/js/main.0af3e8af.js"
+    "static/css/main.9ee61845.css",
+    "static/js/main.ba8603c0.js"
   ]
 }
