@@ -18,13 +18,16 @@ function App() {
       <Navbar />
       <Hero />
       
+      
       <Features />
+      <section id="features">
       <SplitHero 
         primaryText="Upload your project documentation"
         secondaryText="Our AI will process and store it for fast retrieval and reference at any time."
         imageSrc={projDocsImg}
         imageOnRight={true}
       />
+      </section>
       <SplitHero 
         primaryText="Upload a submittal and get instant insights"
         secondaryText="A report is generated in seconds highlighting all the important info and saving you hours of time."
@@ -38,8 +41,9 @@ function App() {
         imageOnRight={true}
       />
       <AISection />
-
+      <section id="pricing">
       <Pricing />
+      </section>
       <Testimonials />
       <Footer />
     </div>

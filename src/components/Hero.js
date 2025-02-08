@@ -11,11 +11,11 @@ function Hero() {
         Transform construction submittal reviews from hours to minutes with AI-powered analysis.
       </p>
       <button className="bg-black text-white px-6 py-3 rounded-md text-lg font-medium">
-        Start for free
+        Join the Waitlist
       </button>
-      <p className="text-sm text-gray-500 mt-4">
+      {/*<p className="text-sm text-gray-500 mt-4">
         ⚡ No credit card required
-      </p>
+      </p> */}
       <div className="mt-48 max-w-6xl mx-auto">
         <img 
           src={DashboardImage} 
